@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/WELIFEPROJECT/Wesushi/static/css/main.fc5dfaa2.chunk.css",
+    "main.js": "/WELIFEPROJECT/Wesushi/static/js/main.de510be4.chunk.js",
+    "main.js.map": "/WELIFEPROJECT/Wesushi/static/js/main.de510be4.chunk.js.map",
+    "runtime-main.js": "/WELIFEPROJECT/Wesushi/static/js/runtime-main.230d2720.js",
+    "runtime-main.js.map": "/WELIFEPROJECT/Wesushi/static/js/runtime-main.230d2720.js.map",
+    "static/js/2.b7df0148.chunk.js": "/WELIFEPROJECT/Wesushi/static/js/2.b7df0148.chunk.js",
+    "static/js/2.b7df0148.chunk.js.map": "/WELIFEPROJECT/Wesushi/static/js/2.b7df0148.chunk.js.map",
+    "static/js/3.fc39b07c.chunk.js": "/WELIFEPROJECT/Wesushi/static/js/3.fc39b07c.chunk.js",
+    "static/js/3.fc39b07c.chunk.js.map": "/WELIFEPROJECT/Wesushi/static/js/3.fc39b07c.chunk.js.map",
+    "index.html": "/WELIFEPROJECT/Wesushi/index.html",
+    "precache-manifest.a7372191ea571eb8bc2a009d130de834.js": "/WELIFEPROJECT/Wesushi/precache-manifest.a7372191ea571eb8bc2a009d130de834.js",
+    "service-worker.js": "/WELIFEPROJECT/Wesushi/service-worker.js",
+    "static/css/main.fc5dfaa2.chunk.css.map": "/WELIFEPROJECT/Wesushi/static/css/main.fc5dfaa2.chunk.css.map",
+    "static/js/2.b7df0148.chunk.js.LICENSE.txt": "/WELIFEPROJECT/Wesushi/static/js/2.b7df0148.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.230d2720.js",
+    "static/js/2.b7df0148.chunk.js",
+    "static/css/main.fc5dfaa2.chunk.css",
+    "static/js/main.de510be4.chunk.js"
+  ]
+}

@@ -1,0 +1,90 @@
+
+.info {
+    margin: auto;
+    display: flex;
+    background-color: #fff;
+    width: 800px;
+    padding: 16px;
+    border-radius:4px;
+}
+.headinfo {
+    font-size: 20px;
+}
+.infoimg {
+    width: 356px;
+    border-radius: 4px;
+}
+.infotext {
+    font-size:  18px;
+}
+.infomati0n {
+    font-size:15px;
+}
+.infonumber,
+.infoprice {
+    font-size: 16px;
+    font-weight:  400;
+}
+.info_right {
+    position: relative;
+    margin-left: 16px;
+    margin-top: 36px;
+}
+.infoprices {
+    margin-left:  8px;
+    font-size: 20px;
+    color: #00489d;
+}
+.infomationprice {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.btnnumber {
+    display: flex;
+    width: 135px;
+    height: 44px;
+    border: 1px solid #000;
+    justify-content: center;
+    align-items: center;
+}
+.btnincrease {
+    background-color: #e8eff6;
+    border: none;
+    padding: 8px 12px;
+}
+.btndescrease {
+    background-color: #f5f5f5;
+    border: none;
+    padding: 8px 12px;
+}
+.btnincrease,
+.btnbuy,
+.btndescrease{
+    cursor: pointer;
+}
+.number {
+    margin: 0 16px;
+    font-size: 20px;
+}
+.btnbuy {
+    margin-top: 16px;
+    background-color: #00509d;
+    font-size:  15px;
+    border: none;
+    color: #fff;
+    padding: 10px 50px;
+    border-radius: 4px;
+}
+.times {
+    display: flex;
+    position: fixed;
+    right: 235px;
+    top: 140px;
+    padding: 4px;
+    border-radius: 50%;
+}
+.times:hover {
+    cursor: pointer;
+    background-color: #efefef;
+}

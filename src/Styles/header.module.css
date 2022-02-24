@@ -1,0 +1,68 @@
+
+.header {
+    height:80px;
+    background-color: rgba(40,41,71,.8);
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 100;
+}
+
+.header_logoimg {
+    width: 140px
+}
+.header_logoimg:hover {
+    cursor: pointer;
+}
+.header_nav_item{
+    padding: 4px 8px;
+    margin: 0 8px;
+    list-style: none;
+    border-radius: 4px;
+}
+.header_nav_item:hover {
+    background-color: rgba(255, 255, 255, 0.1)
+}
+.header_nav_link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.header_registration{
+    border-radius: 16px;
+    background-color: transparent;
+    border-style: none;
+    color: #fff;
+    font-size: 15px;
+    padding: 8px 16px;
+}
+.header_registration:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.1)
+}
+.header_icon {
+    padding: 12px;
+    color:white;
+    border-radius: 50%;
+}
+.header_icon:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+}
+.header_login {
+    border-radius: 16px;
+    background-color: transparent;
+    border: solid 2px #fff;
+    color: #fff;
+    font-size: 15px;
+    padding: 8px 16px;
+    position: fixed;
+    top: 60;
+    margin-left: 8px;
+}
+.header_login:hover{
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.1)
+}
